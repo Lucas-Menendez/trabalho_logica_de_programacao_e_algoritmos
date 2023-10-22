@@ -1,0 +1,1 @@
+>Trabalho realizado para a disciplina de **Lógica de Programação e Algoritmos** do curso de **Análise e Desenvolvimento de Sistemas** separando as atividades por arquivos .py
